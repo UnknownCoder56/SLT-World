@@ -1,3 +1,4 @@
 # Hi there 👋
 
-I’m working on a project, which is not on github right now.
+I’m working on some projects, which are not on github right now.
+Launcher, Browser and etc
