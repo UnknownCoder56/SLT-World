@@ -1,1 +1,1 @@
-Creating mini games each week
+Creating mini games every week
