@@ -1,1 +1,1 @@
-Creating mini games every week
+Working on SLT Ace Combat, nothing else.
