@@ -1,6 +1,6 @@
-I'm working actively on the SLBr Project, a fully featured, fast and clean web browser made using the powerful .NET WPF and using the fast Chromium Embedded Framework (CEF) as the rendering engine. I'm the developer and owner of the project.
+I'm working on SLBr, a fully featured, fast and clean web browser made using the powerful .NET WPF.
 
-Sometimes I make my projects open, sometimes not. I spend most of my time just thinking about what I can do to change my projects.
-I'm doing all of this for a hobby.
+I spend most of my time just thinking about what changes and ideas I could apply for certain projects.
+Doing this for a hobby.
 
 You can reach out to me in my discord server: https://discord.gg/fNmFUjmcNn
