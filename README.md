@@ -6,6 +6,7 @@ Active Projects
 - [SLSearch](https://slsearch.cf/) (A search engine, very slow)
 
 Code Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SLT-World&theme=dark)
 - C#
 - Python
