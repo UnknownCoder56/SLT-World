@@ -8,7 +8,7 @@ Active Projects
 [![SLBr](https://github-readme-stats.vercel.app/api/pin/?username=SLT-World&repo=SLBr&theme=dark)](https://github.com/SLT-World/SLBr)
 
 - SLT Combat (A combat game, something like warthunder but low poly and single color texture)
-- [SLSearch](https://slsearch.cf/) (A search engine, very slow)
+- [SLSearch](http://a75038b2-4ac2-49c9-990f-4b702b720c9c.id.repl.co/) (A search engine, very slow)
 
 Code Languages
 
