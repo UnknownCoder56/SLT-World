@@ -1,4 +1,4 @@
-Self-taught WPF and Unity developer that lacks ideas
+Self-taught WPF & Unity developer that lacks ideas
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=SLT-World&show_icons=true&theme=dark)](https://github.com/SLT-World/)
 
