@@ -8,7 +8,7 @@ Active projects
 
 Other proud projects
 - [No hosting service ;-;] ~~[SLChat](https://chat.slsearch.eu.org/)~~ (A social chat website)
-- [No hosting service] ~~[SLSearch](https://slsearch.eu.org/)~~ (A search engine, a bit slow)
+- [No hosting service] ~~[SLSearch](https://slsearch.eu.org/)~~ (A search engine)
 
 [![SLBr](https://github-readme-stats.vercel.app/api/pin/?username=SLT-World&repo=SLBr&theme=dark)](https://github.com/SLT-World/SLBr)
 
