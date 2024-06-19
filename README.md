@@ -18,10 +18,10 @@ Code languages that I use:
 - C#
 - Python
 - Javascript
-- Swift (A bit)
 - XAML
 - HTML
 - CSS
+- Swift (A little bit)
 
 Contacts & Socials
 - [Discord Server](https://discord.gg/fNmFUjmcNn)
