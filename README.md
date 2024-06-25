@@ -3,6 +3,7 @@ Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
 [![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=csharp&logoColor=239120&label=&labelColor=black)](https://github.com/SLT-World/)
 [![WPF](https://img.shields.io/static/v1?style=for-the-badge&message=WPF&color=0C54C2&logo=XAML&logoColor=0C54C2&label=&labelColor=black)](https://github.com/SLT-World/)
 [![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=000000&label=&labelColor=gainsboro)](https://github.com/SLT-World/)
+[![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=VisualStudio&logoColor=5C2D91&label=&labelColor=black)](https://github.com/SLT-World/)
 [![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=E87D0D&logo=Blender&logoColor=E87D0D&label=&labelColor=black)](https://github.com/SLT-World/)
 
 ## Projects
