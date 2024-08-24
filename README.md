@@ -7,7 +7,7 @@ Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
 [![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=E87D0D&logo=Blender&logoColor=E87D0D&label=&labelColor=black)](https://github.com/SLT-World/)
 
 ## Projects
-| Active                                                   | Honorable Mentions                                                         |
+| Active                                                   | Other Notables                                                         |
 | -------------------------------------------------------- | -------------------------------------------------------------------------- |
 | SLT Combat (Vehicle combat game, similar to War Thunder) | ~~[SLChat](https://chat.slsearch.eu.org/)~~ [Social chat website, No host] |
 | [![SLBr](https://github-readme-stats.vercel.app/api/pin/?username=SLT-World&repo=SLBr&theme=transparent)](https://github.com/SLT-World/SLBr)  | [SLSearch](https://slsearch.eu.org/) [Search engine]          |
