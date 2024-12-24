@@ -12,6 +12,11 @@ Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
 | [SLT Combat](https://sltworld.itch.io/slt-combat) (Vehicle Combat Game, similar to War Thunder) | [SLChat](https://slchat.alwaysdata.net/) [Chat Platform] |
 | [![SLBr](https://github-readme-stats.vercel.app/api/pin/?username=SLT-World&repo=SLBr&theme=transparent)](https://github.com/SLT-World/SLBr)  | [SLSearch](https://slsearch.eu.org/) [Search Engine]          |
 
+## Contacts & Socials
+[![Discord Server](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=5865F2&label=&labelColor=black)](https://discord.gg/fNmFUjmcNn)
+[![YouTube Channel](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FF0000&label=&labelColor=black)](https://www.youtube.com/@SLT-World)
+[![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
+
 ## GitHub Stats
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=SLT-World&show_icons=true&theme=transparent" />
@@ -19,11 +24,6 @@ Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLT-World&theme=transparent&langs_count=8&layout=compact" /></div>
 </div>
-
-## Contacts & Socials
-[![Discord Server](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=5865F2&label=&labelColor=black)](https://discord.gg/fNmFUjmcNn)
-[![YouTube Channel](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FF0000&label=&labelColor=black)](https://www.youtube.com/@SLT-World)
-[![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
 
 ## Projects
 - SLBr [Web Browser]
@@ -36,5 +36,4 @@ Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
 - SLT Planetarium [Video Game]
 - SLT Ace [Video Game]
 - Discord Store Recreation [Desktop Application]
-
-- Others (Discord bots, other Unity projects, WPF & MAUI applications)
+- Others [Python applications (Discord bots, Websites), Unity games, WPF & MAUI applications]
