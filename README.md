@@ -9,8 +9,8 @@ Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
 ## Big Projects
 | Active                                                   | Other Notables                                                         |
 | -------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [SLT Combat](https://sltworld.itch.io/slt-combat) (Vehicle combat game, similar to War Thunder) | ~~[SLChat](https://chat.slsearch.eu.org/)~~ [Social chat website, No host] |
-| [![SLBr](https://github-readme-stats.vercel.app/api/pin/?username=SLT-World&repo=SLBr&theme=transparent)](https://github.com/SLT-World/SLBr)  | [SLSearch](https://slsearch.eu.org/) [Search engine]          |
+| [SLT Combat](https://sltworld.itch.io/slt-combat) (Vehicle Combat Game, similar to War Thunder) | [SLChat](https://slchat.alwaysdata.net/) [Chat Platform] |
+| [![SLBr](https://github-readme-stats.vercel.app/api/pin/?username=SLT-World&repo=SLBr&theme=transparent)](https://github.com/SLT-World/SLBr)  | [SLSearch](https://slsearch.eu.org/) [Search Engine]          |
 
 ## GitHub Stats
 <div class='container'>
@@ -37,4 +37,4 @@ Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
 - SLT Ace [Video Game]
 - Discord Store Recreation [Desktop Application]
 
-- Others (Discord bots, small combat Unity projects, WPF applications)
+- Others (Discord bots, other Unity projects, WPF & MAUI applications)
