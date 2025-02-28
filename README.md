@@ -16,6 +16,7 @@ Hello, Schuyler Tan here, I'm a student that does 3D Modeling, creates Unity vid
 [![Discord Server](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=5865F2&label=&labelColor=black)](https://discord.gg/fNmFUjmcNn)
 [![YouTube Channel](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FF0000&label=&labelColor=black)](https://www.youtube.com/@SLT-World)
 [![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
+[![Google Play Store](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play+Store&color=4285F4&logo=GooglePlay&logoColor=4285F4&label=&labelColor=black)](https://play.google.com/store/apps/developer?id=SLT+World)
 
 ## GitHub Stats
 <div class='container'>
