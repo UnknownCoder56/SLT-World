@@ -1,5 +1,11 @@
 Hello, Schuyler Tan here, I'm a student that does 3D Modeling, creates Unity video games, WPF & MAUI applications as a hobby.
 
+## Links
+[![Google Play Store](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play+Store&color=4285F4&logo=GooglePlay&logoColor=4285F4&label=&labelColor=black)](https://play.google.com/store/apps/developer?id=SLT+World)
+[![YouTube Channel](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FF0000&label=&labelColor=black)](https://www.youtube.com/@SLT-World)
+[![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
+[![Discord Server](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=5865F2&label=&labelColor=black)](https://discord.gg/fNmFUjmcNn)
+
 [![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=csharp&logoColor=239120&label=&labelColor=black)](https://github.com/SLT-World/)
 [![WPF](https://img.shields.io/static/v1?style=for-the-badge&message=WPF&color=0C54C2&logo=XAML&logoColor=0C54C2&label=&labelColor=black)](https://github.com/SLT-World/)
 [![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=000000&label=&labelColor=gainsboro)](https://github.com/SLT-World/)
@@ -11,12 +17,6 @@ Hello, Schuyler Tan here, I'm a student that does 3D Modeling, creates Unity vid
 | -------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [SLT Combat](https://sltworld.itch.io/slt-combat) (Vehicle Combat Game, similar to War Thunder) | [SLChat](https://slchat.alwaysdata.net/) [Chat Platform] |
 | [![SLBr](https://github-readme-stats.vercel.app/api/pin/?username=SLT-World&repo=SLBr&theme=transparent)](https://github.com/SLT-World/SLBr)  | [SLSearch](https://slsearch.eu.org/) [Search Engine]          |
-
-## Contacts & Socials
-[![Discord Server](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=5865F2&label=&labelColor=black)](https://discord.gg/fNmFUjmcNn)
-[![YouTube Channel](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FF0000&label=&labelColor=black)](https://www.youtube.com/@SLT-World)
-[![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
-[![Google Play Store](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play+Store&color=4285F4&logo=GooglePlay&logoColor=4285F4&label=&labelColor=black)](https://play.google.com/store/apps/developer?id=SLT+World)
 
 ## GitHub Stats
 <div class='container'>
