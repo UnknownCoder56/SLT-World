@@ -1,4 +1,4 @@
-Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
+Hello, Schuyler Tan here, I'm a student that does 3D Modeling, creates Unity video games, WPF & MAUI applications as a hobby.
 
 [![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=csharp&logoColor=239120&label=&labelColor=black)](https://github.com/SLT-World/)
 [![WPF](https://img.shields.io/static/v1?style=for-the-badge&message=WPF&color=0C54C2&logo=XAML&logoColor=0C54C2&label=&labelColor=black)](https://github.com/SLT-World/)
@@ -25,11 +25,13 @@ Hello, SLT here, I'm a 3D Modeler, WPF & Unity game developer that lacks ideas.
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLT-World&theme=transparent&langs_count=8&layout=compact" /></div>
 </div>
 
-## Projects
+## Notable Projects
 - SLBr [Web Browser]
 - SLT Combat [Vehicle Combat Video Game]
 - SLChat [Chat Platform]
 - SLSearch [Search Engine]
+- Power Station Inc [Video Game]
+- Moon Hop [Mini Video Game]
 - Build & Upgrade 2 [Video Game]
 - Build & Upgrade [Video Game]
 - SLT Ace Combat [Video Game]
