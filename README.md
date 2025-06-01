@@ -12,6 +12,9 @@ Hello, Schuyler Tan here, I'm a student that does 3D Modeling, creates Unity vid
 [![Itch.io](https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FA5C5C&label=&labelColor=black)](https://sltworld.itch.io)
 [![Discord Server](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=5865F2&label=&labelColor=black)](https://discord.gg/fNmFUjmcNn)
 
+## Newest Application
+[PQ - Currency Converter](https://play.google.com/store/apps/details?id=com.sltsoftwares.pq)
+
 ## Big Projects
 | Active                                                   | Other Notables                                                         |
 | -------------------------------------------------------- | -------------------------------------------------------------------------- |
