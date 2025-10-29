@@ -34,7 +34,6 @@ Hello, Schuyler Tan here, I'm a student that does 3D Modeling, creates Unity vid
 - SLT Combat [Vehicle Combat Video Game]
 - SLChat [Chat Platform]
 - SLSearch [Search Engine]
-- AutoSolve [Mobile Application, 20/9/2025]
 - PQ [Mobile Currency Converter, 27/10/2024]
 - Power Station Inc [Video Game, 2/2/2025]
 - Moon Hop [Mini Video Game]
